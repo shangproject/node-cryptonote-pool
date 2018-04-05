@@ -2,10 +2,10 @@
     "name": "cryptonote-pool",
     "version": "0.0.1",
     "license": "GPL-2.0",
-    "author": "Matthew Little",
+    "author": "Xu",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-cryptonote-pool.git"
+        "url": "https://github.com/shangproject/node-cryptonote-pool.git"
     },
     "dependencies": {
         "bignum": "0.12.5",
@@ -14,8 +14,8 @@
         "cli-color": "1.1.0",
         "dateformat": "1.0.12",
         "base58-native": "0.1.4",
-        "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
-        "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util#xmr-Nan-2.0"
+        "multi-hashing": "git://github.com/shangproject/node-multi-hashing.git",
+        "cryptonote-util": "git://github.com/shangproject/node-cryptonote-util.git"
     },
     "engines": {
         "node": ">=0.10"
