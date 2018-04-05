@@ -1,6 +1,6 @@
 {
-    "coin": "monero",
-    "symbol": "XMR",
+    "coin": "shang",
+    "symbol": "SHG",
 
     "logging": {
         "files": {
@@ -85,7 +85,7 @@
     "blockUnlocker": {
         "enabled": true,
         "interval": 30,
-        "depth": 60,
+        "depth": 15,
         "poolFee": 2,
         "devDonation": 0.1,
         "coreDevDonation": 0.1
@@ -98,7 +98,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "x"
     },
 
     "daemon": {
